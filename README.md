@@ -2,9 +2,10 @@
 
 Unify Qt application style of CutefishOS.
 
-## Dependencies
-
-`sudo pacman -S gcc extra-cmake-modules qt5-base qt5-tools qt5-x11extras libqtxdg libdbusmenu-qt5 libxcb`
+## Dependencies (for Arch)
+```bash
+sudo pacman -S gcc extra-cmake-modules qt5-base qt5-tools qt5-x11extras libqtxdg libdbusmenu-qt5 libxcb`
+```
 
 ## Build
 
