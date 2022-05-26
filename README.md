@@ -6,6 +6,7 @@ Unify Qt application style of CutefishOS.
 ```bash
 sudo pacman -S gcc extra-cmake-modules qt5-base qt5-tools qt5-x11extras libqtxdg libdbusmenu-qt5 libxcb`
 ```
+#Please look at cirily/qt-plugins#1 (include debian and arch user) 
 
 ## Build
 
