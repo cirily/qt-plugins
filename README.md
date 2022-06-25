@@ -1,6 +1,7 @@
 # Qt Plugins
 
-Unify Qt application style of CutefishOS.
+Unify Qt application style of Piscesys
+.
 
 ## Dependencies (For Arch)
 ```bash
