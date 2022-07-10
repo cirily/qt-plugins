@@ -21,4 +21,4 @@ sudo make install
 
 ## License
 
-cutefish-qt-plugins is licensed under GPLv3.
+pisces-qt-plugins is licensed under GPLv3.
